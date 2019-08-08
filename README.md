@@ -32,3 +32,5 @@ https://github.com/jashkenas/backbone/graphs/contributors
 
 Special thanks to Robert Kieffer for the original philosophy behind Backbone.
 https://github.com/broofa
+
+# Do NOT modify this file.
